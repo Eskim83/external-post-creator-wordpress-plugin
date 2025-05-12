@@ -1,13 +1,21 @@
 # External Post Creator
 
 **Contributors:** eskimpl
+
 **Tags:** REST API, posts, external content, thumbnail, meta
+
 **Requires at least:** 5.5
+
 **Tested up to:** 6.5
+
 **Requires PHP:** 7.4
+
 **Stable tag:** 1.0
+
 **License:** GPLv2 or later
+
 **License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
+
 
 ---
 
@@ -92,5 +100,7 @@ Content-Type: application/json
 ## Autor
 
 Eskim – [eskim.pl](https://eskim.pl)
+
 GitHub: [Eskim83](https://github.com/Eskim83)
+
 Buy me a coffee: [buymecoffee.com/eskim](https://www.buymeacoffee.com/eskim)
